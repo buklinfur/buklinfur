@@ -27,11 +27,11 @@ Team contributions elsewhere: [Emo Radar](https://github.com/buklinfur/slezhka-s
 
 ### Stack
 
-**Languages:** Python, C++, CUDA C++, SQL, JavaScript
-**ML / CV:** PyTorch, OpenCV, ultralytics (YOLOv8), segmentation_models_pytorch, transformers, ONNX
-**Parallel / GPU:** CUDA, CUB, cuBLAS, OpenACC, OpenMP, asyncio
-**Robotics:** ROS2, Gazebo, RViz, URDF
-**Backend / DevOps:** FastAPI, Flask, PostgreSQL, Docker, nginx, GitHub Actions, Kubernetes (coursework)
+- **Languages:** Python, C++, CUDA C++, SQL, JavaScript
+- **ML / CV:** PyTorch, OpenCV, ultralytics (YOLOv8), segmentation_models_pytorch, transformers, ONNX
+- **Parallel / GPU:** CUDA, CUB, cuBLAS, OpenACC, OpenMP, asyncio
+- **Robotics:** ROS2, Gazebo, RViz, URDF
+- **Backend / DevOps:** FastAPI, Flask, PostgreSQL, Docker, nginx, GitHub Actions, Kubernetes (coursework)
 
 ### Contact
 
