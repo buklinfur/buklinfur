@@ -35,4 +35,4 @@ Team contributions elsewhere: [Emo Radar](https://github.com/buklinfur/slezhka-s
 
 ### Contact
 
-buklinfur@outlook.com · Telegram [@buklinfur](https://t.me/buklinfur)
+buklinfur@outlook.com · Telegram [@malfishing](https://t.me/malfishing)
